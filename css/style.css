@@ -6,8 +6,8 @@
 	text-align: center;
 }
 
-#profile-pic{
-	max-width: fit-content;
+#profile-pic{	
+	align-items: center;
 	border-radius: 50%;
 }
 
